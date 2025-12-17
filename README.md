@@ -1,21 +1,3 @@
-# mvdmio notes
-
-To merge upstream changes, run:
-
-```
-git pull --rebase upstream main
-
-```
-
-# mvdmio notes
-
-To merge upstream changes, run:
-
-```
-git pull --rebase upstream main
-
-```
-
 # Fizzy
 
 This is the source code of [Fizzy](https://fizzy.do/), the Kanban tracking tool for issues and ideas by [37signals](https://37signals.com).
